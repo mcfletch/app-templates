@@ -1,0 +1,3 @@
+recursive-include {{appname}}/static *.css *.png *.js *.jpg *.gif *.ico
+recursive-include {{appname}}/templates *
+recursive-include {{appname}}/fixtures *
