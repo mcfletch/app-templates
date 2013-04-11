@@ -1,5 +1,5 @@
 Django application, use:
 
-	setup.py install
+    setup.py install
 
 (requires setuptools/distribute)
