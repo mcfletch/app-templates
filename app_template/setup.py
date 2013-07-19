@@ -34,7 +34,6 @@ if __name__ == "__main__":
         package_data = {
             '{{app_name}}': [
                 'templates/{{app_name}}/*.html',
-                'static/*',
                 'static/js/*',
                 'static/css/*',
                 'static/img/*',
